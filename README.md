@@ -19,4 +19,5 @@ In this project, you are tasked to create a prototype NLP project that is capabl
 Instructions
 
 Download Data.zip and extract.
+
 Pip install requirements.txt
